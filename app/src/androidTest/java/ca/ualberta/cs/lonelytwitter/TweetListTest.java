@@ -1,3 +1,5 @@
+package ca.ualberta.cs.lonelytwitter;
+
 import android.test.ActivityInstrumentationTestCase2;
 
 public class TweetListTest extends ActivityInstrumentationTestCase2
